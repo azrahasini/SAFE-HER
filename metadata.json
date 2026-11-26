@@ -1,0 +1,6 @@
+{
+  "name": "SAFEHER",
+  "description": "SAFEHER — Intelligence. Protection. Empowerment. AI-powered women's safety platform with situation-based escape guidance, One-Tap SOS, safe route navigation, encrypted evidence gallery, and operations console.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
